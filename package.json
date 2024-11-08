@@ -1,0 +1,15 @@
+{
+  "name": "remove-duplicates",
+  "version": "1.0.0",
+  "description": "Remove the Duplicates from Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DuplicatesRemove",
+    "ArrayDuplicates"
+  ],
+  "author": "Hunain Parekh",
+  "license": "ISC"
+}
